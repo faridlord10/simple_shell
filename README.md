@@ -1,5 +1,5 @@
 #Simple_Shell
-Pair programmaing project
+Pair programming project
 
 ##Team of work
 El Azbi Fouad
