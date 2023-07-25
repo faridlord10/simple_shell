@@ -21,7 +21,7 @@ char *conca_path(char **str, char **nouveau)
 
 		if (stat(sigma, &status) == 0)
 		{
-			for (j = 0; str[j] != (void*)0; j++)
+			for (j = 0; str[j] != (void *)0; j++)
 				;
 			conca = malloc(sizeof(char *) * (j + 1));
 			conca[j] = NULL;
