@@ -2,7 +2,7 @@
 
 /**
  * print_str - print a string from prompt.
- * @str: is a array of char.
+ * @str: array of char.
  * Return: string.
  */
 void print_str(char *str)
