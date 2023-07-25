@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * run_cmd - run a command.
+ * run_cmd - run a command in prompt.
  * @cmd: is a command to run.
  * Return: always 0.
  */
